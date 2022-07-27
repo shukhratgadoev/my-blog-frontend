@@ -189,6 +189,9 @@ const Item = styled(Paper)`
         </Typography>
         </Grid>
       </Grid>
+			<br />
+			<br />
+			<br />
     </Box>
   );
 }

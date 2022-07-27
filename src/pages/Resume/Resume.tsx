@@ -7,9 +7,9 @@ import Stack from '@mui/material/Stack';
 const Resume = () => {
 	return (
 		<div>
-			<Typography variant="h3" component="div" gutterBottom>
-					Resume
-					</Typography>
+			<Typography variant="h3" component="div" gutterBottom style={{textAlign: 'center'}}>
+				RESUME
+			</Typography>
 			<Grid container spacing={2}>
         <Grid item xs={12}>
 					<Typography variant="h4" component="div" gutterBottom>
@@ -207,8 +207,9 @@ const Resume = () => {
 				</Grid>
 
       </Grid>
-
-			
+<br />
+<br />
+<br />
 		</div>
 	 );
 }
